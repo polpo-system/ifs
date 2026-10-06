@@ -10,4 +10,5 @@ From ETH Oberon (OLR), the module converted to plain text, the tool text as it i
 text). It needs the packages xyplane and randomnumbers (and so math).
 
 Install with portia: `portia.Install ifs`; then open `IFS.Tool` in the desktop and click
-`IFS.Init` and `IFS.Draw` under an example. The license is the one of ETH Oberon: `LICENSE`.
+`IFS.Init` and `IFS.Draw` under an example. The license is GPL-3 (`LICENSE`); the code comes from ETH Oberon, whose license (`LICENSE.ETH`)
+asks to keep its copyright notice and conditions, which `LICENSE.ETH` does.
